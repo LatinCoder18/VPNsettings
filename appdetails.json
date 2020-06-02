@@ -16,9 +16,9 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Republic of Korea","country":"Republic of Korea","image":"southkorea","ip":"220.71.160.189","active":"true","signal":"c"},
+    {"id":0, "file":0, "city":"Republic of Korea","country":"Republic of Korea","image":"southkorea","ip":"220.71.160.189","active":"false","signal":"c"},
     {"id":1, "file":1, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.132","active":"true","signal":"b"},
-    {"id":2, "file":2, "city":"United States","country":"United States","image":"unitedstates","ip":"135.180.106.208","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Vietnam","country":"Vietnam","image":"unknownmali","ip":"135.180.106.208","active":"true","signal":"a"},
 	{"id":3, "file":3, "city":"United States","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"}
 	
   ]
