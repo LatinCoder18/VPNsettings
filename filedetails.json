@@ -411,7 +411,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},{   "id":4,
   "file":"dev tun
 proto tcp
-remote 220.71.160.189 995
+remote 109.195.21.130 1610
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
