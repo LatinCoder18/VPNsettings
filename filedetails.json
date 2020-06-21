@@ -311,7 +311,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 proto tcp
 remote 76.173.36.8 1791
 http-proxy-retry
-http-proxy 181.225.244.26 3128
+http-proxy iot.upr.edu.cu 80
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
