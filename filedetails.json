@@ -3,7 +3,7 @@
   {   "id":0,
   "file":"dev tun
 proto tcp
-remote 186.123.2.157 1195
+remote 222.114.61.202 995
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -310,8 +310,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
   "file":"dev tun
 proto tcp
 remote 76.173.36.8 1791
-http-proxy-retry
-http-proxy iot.upr.edu.cu 80
+;http-proxy-retry
+;http-proxy iot.upr.edu.cu 80
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
