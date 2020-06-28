@@ -29,6 +29,9 @@
 	{"id":10, "file":10, "city":"France","country":"France","image":"france","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":11, "file":11, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":12, "file":12, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":13, "file":13, "city":"Venezuela","country":"Venezuela","image":"venezuela","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":14, "file":14, "city":"Lituania","country":"Lituania","image":"lituania","ip":"76.173.36.8","active":"true","signal":"a"},
+	
 
 
 
