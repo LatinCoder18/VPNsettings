@@ -707,7 +707,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key> "},{   "id":7,
   "file":"dev tun
 proto tcp
-remote 186.123.2.157 1195
+remote 121.200.6.50 1332
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
