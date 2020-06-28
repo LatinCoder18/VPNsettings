@@ -3,7 +3,7 @@
   {   "id":0,
   "file":"dev tun
 proto tcp
-remote 70.114.144.141 1464
+remote 222.114.61.202 995
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -707,7 +707,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key> "},{   "id":7,
   "file":"dev tun
 proto tcp
-remote 70.114.144.141 1464
+remote 87.27.152.110 443
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
