@@ -33,8 +33,8 @@
 	{"id":14, "file":14, "city":"Lituania","country":"Lituania","image":"lituania","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":15, "file":15, "city":"Paraguay","country":"Paraguay","image":"paraguay","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":16, "file":16, "city":"Spain","country":"Spain","image":"spain","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":17, "file":17, "city":"United Kindom","country":"United Kindom","image":"unitedkingdom","ip":"76.173.36.8","active":"false","signal":"a"},
-	{"id":18, "file":18, "city":"United States 3","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":17, "file":17, "city":"United Kindom","country":"United Kindom","image":"unitedkingdom","ip":"76.173.36.8","active":"false","signal":"c"},
+	{"id":18, "file":18, "city":"United States 3","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
 
 	
   ]
