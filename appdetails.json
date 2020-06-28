@@ -25,6 +25,7 @@
 	{"id":6, "file":6, "city":"Argentina","country":"Argentina","image":"italy","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":7, "file":7, "city":"Australia","country":"Australia","image":"australia","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":8, "file":8, "city":"Rumania","country":"Rumania","image":"Rumania","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":9, "file":9, "city":"United States 2","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
 
 
 	
