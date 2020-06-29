@@ -908,7 +908,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},{   "id":9,
   "file":"dev tun
 proto tcp
-remote 70.114.144.141 1464
+remote 63.227.77.86 995
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -956,6 +956,7 @@ jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
 
 </ca>
+
 <cert>
 -----BEGIN CERTIFICATE-----
 MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
@@ -976,6 +977,7 @@ Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 -----END CERTIFICATE-----
 
 </cert>
+
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -1713,8 +1715,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 </key>"},{   "id":17,
   "file":"dev tun
-proto tcp
-remote 5.181.235.142 443
+proto udp
+remote 177.10.108.212 1541
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -1762,6 +1764,7 @@ jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
 
 </ca>
+
 <cert>
 -----BEGIN CERTIFICATE-----
 MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
@@ -1782,6 +1785,7 @@ Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 -----END CERTIFICATE-----
 
 </cert>
+
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -1814,7 +1818,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},{   "id":18,
   "file":"dev tun
 proto tcp
-remote 5.181.235.142 443
+remote 68.132.32.9 1432
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -1862,6 +1866,7 @@ jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
 
 </ca>
+
 <cert>
 -----BEGIN CERTIFICATE-----
 MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
