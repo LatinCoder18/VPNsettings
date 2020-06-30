@@ -25,16 +25,16 @@
 	{"id":6, "file":6, "city":"Argentina","country":"Argentina","image":"italy","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":7, "file":7, "city":"Australia","country":"Australia","image":"australia","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":8, "file":8, "city":"Rumania","country":"Rumania","image":"Rumania","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":9, "file":9, "city":"United States 2","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":10, "file":10, "city":"France","country":"France","image":"france","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":9, "file":9, "city":"United States 2","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":10, "file":10, "city":"France","country":"France","image":"france","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":11, "file":11, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":12, "file":12, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":13, "file":13, "city":"Venezuela","country":"Venezuela","image":"venezuela","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":14, "file":14, "city":"Lituania","country":"Lituania","image":"lituania","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":13, "file":13, "city":"Venezuela","country":"Venezuela","image":"venezuela","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":14, "file":14, "city":"Lituania","country":"Lituania","image":"lituania","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":15, "file":15, "city":"Paraguay","country":"Paraguay","image":"paraguay","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":16, "file":16, "city":"Spain","country":"Spain","image":"spain","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":17, "file":17, "city":"Brasil","country":"Brasil","image":"brasil","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":18, "file":18, "city":"United States 3","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":18, "file":18, "city":"United States 3","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
 
 	
   ]
