@@ -1,28 +1,39 @@
 {
-     "ads":"true",
-	"update":[{"version":"1.0",
-	"title":"Segured-VPN",
-	"description":"Segured-VPN",
-	"size":""
+	"ads":"true",
+	"update":[{
+    "version":"1.0",
+    "title":"Segured-VPN",
+    "description":"Segured-VPN",
+    "size":""
   }],
   "blocked":[
-    {"id":0, "app":"com.android.game"}
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":3, "file":3, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":4, "file":4, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":5, "file":5, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":6, "file":6, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":7, "file":7, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":8, "file":8, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":9, "file":9, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":10, "file":10, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":11, "file":11, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":12, "file":12, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":13, "file":13, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-    {"id":14, "file":14, "city":"Japan","country":"Japan","image":"random","ip":"125.192.129.151","active":"true","signal":"a"},
-]
+    {"id":0, "file":0, "city":"Republic of Korea","country":"Republic of Korea","image":"southkorea","ip":"220.71.160.189","active":"false","signal":"a"},
+    {"id":1, "file":1, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.132","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Vietnam","country":"Vietnam","image":"unknownmali","ip":"135.180.106.208","active":"true","signal":"c"},
+	{"id":3, "file":3, "city":"United States","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":4, "file":4, "city":"Rusia","country":"Rusia","image":"russia","ip":"109.195.21.130","active":"true","signal":"c"},
+	{"id":5, "file":5, "city":"United States 1","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":6, "file":6, "city":"Argentina","country":"Argentina","image":"italy","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":7, "file":7, "city":"Australia","country":"Australia","image":"australia","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":8, "file":8, "city":"Rumania","country":"Rumania","image":"Rumania","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":9, "file":9, "city":"United States 2","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":10, "file":10, "city":"France","country":"France","image":"france","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":11, "file":11, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":12, "file":12, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":13, "file":13, "city":"Venezuela","country":"Venezuela","image":"venezuela","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":14, "file":14, "city":"Lituania","country":"Lituania","image":"lituania","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":15, "file":15, "city":"Paraguay","country":"Paraguay","image":"paraguay","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":16, "file":16, "city":"Spain","country":"Spain","image":"spain","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":17, "file":17, "city":"Brasil","country":"Brasil","image":"brasil","ip":"76.173.36.8","active":"true","signal":"c"},
+	{"id":18, "file":18, "city":"United States 3","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"c"},
+  ]
 }
