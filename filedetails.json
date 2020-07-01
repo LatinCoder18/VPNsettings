@@ -309,9 +309,9 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 {   "id":3,
   "file":"dev tun
 proto tcp
-remote 76.173.36.8 1791
+remote 52.175.48.64 443
 ;http-proxy-retry
-;http-proxy iot.upr.edu.cu 80
+;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -508,7 +508,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key> "},{   "id":5,
   "file":"dev tun
 proto tcp
-remote 198.217.120.4 1359
+remote 198.72.146.136 1607
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -554,6 +554,7 @@ VXyNWQKV3WKdwrnuWih0hKWbt5DHDAff9Yk2dDLWKMGwsAvgnEzDHNb842m1R0aB
 L6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG
 jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
+
 </ca>
 <cert>
 -----BEGIN CERTIFICATE-----
@@ -573,7 +574,9 @@ UBHhllOHIzvDhHFbaovALBQceeBzdkQxsKQESKmQmR832950UCovoyRB61UyAV7h
 Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 6zZeZkrN43kuS73KpKDFjfFPh8t4r1gOIjttkNcQqBccusnplQ7HJpsk
 -----END CERTIFICATE-----
+
 </cert>
+
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -602,10 +605,11 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-</key> "},{   "id":6,
+
+</key>"},{   "id":6,
   "file":"dev tun
-proto tcp
-remote 186.123.2.157 1195
+proto udp
+remote 181.117.38.167 1195
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -704,7 +708,7 @@ wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 
-</key> "},{   "id":7,
+</key>"},{   "id":7,
   "file":"dev tun
 remote 121.200.6.50 1332
 ;http-proxy-retry
