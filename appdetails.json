@@ -47,13 +47,5 @@
     {"id":85, "file":85, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"218.157.116.41","active":"true","signal":"a"},
     {"id":86, "file":86, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"211.201.73.86","active":"true","signal":"a"},
     {"id":87, "file":87, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"121.147.4.31","active":"true","signal":"a"},
-    {"id":88, "file":88, "city":"Thailand","country":"Thailand","image":"random","ip":"182.232.232.116","active":"true","signal":"a"},
-    {"id":89, "file":89, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"182.229.226.47","active":"true","signal":"a"},
-    {"id":90, "file":90, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"59.21.107.182","active":"true","signal":"a"},
-    {"id":91, "file":91, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"121.159.142.231","active":"true","signal":"a"},
-    {"id":92, "file":92, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"1.233.65.220","active":"true","signal":"a"},
-    {"id":93, "file":93, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"175.121.208.142","active":"true","signal":"a"},
-    {"id":94, "file":94, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"114.108.123.150","active":"true","signal":"a"},
-    {"id":95, "file":95, "city":"Korea Republic of","country":"Korea Republic of","image":"random","ip":"211.226.23.123","active":"true","signal":"a"},
 ]
 }
