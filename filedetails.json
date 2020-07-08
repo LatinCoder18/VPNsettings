@@ -308,8 +308,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},
 {   "id":3,
   "file":"dev tun
-proto tcp
-remote 52.175.48.64 443
+proto udp
+remote 118.68.217.91 1209
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -355,9 +355,7 @@ VXyNWQKV3WKdwrnuWih0hKWbt5DHDAff9Yk2dDLWKMGwsAvgnEzDHNb842m1R0aB
 L6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG
 jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
-
 </ca>
-
 <cert>
 -----BEGIN CERTIFICATE-----
 MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
@@ -376,9 +374,7 @@ UBHhllOHIzvDhHFbaovALBQceeBzdkQxsKQESKmQmR832950UCovoyRB61UyAV7h
 Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 6zZeZkrN43kuS73KpKDFjfFPh8t4r1gOIjttkNcQqBccusnplQ7HJpsk
 -----END CERTIFICATE-----
-
 </cert>
-
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -407,7 +403,6 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-
 </key>"},{   "id":4,
   "file":"dev tun
 proto tcp
@@ -1013,8 +1008,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 </key>"},{   "id":10,
   "file":"dev tun
-proto udp
-remote 187.190.133.218 2022
+proto tcp
+remote 103.201.129.158 443
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -1060,7 +1055,6 @@ VXyNWQKV3WKdwrnuWih0hKWbt5DHDAff9Yk2dDLWKMGwsAvgnEzDHNb842m1R0aB
 L6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG
 jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
-
 </ca>
 <cert>
 -----BEGIN CERTIFICATE-----
@@ -1080,9 +1074,7 @@ UBHhllOHIzvDhHFbaovALBQceeBzdkQxsKQESKmQmR832950UCovoyRB61UyAV7h
 Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 6zZeZkrN43kuS73KpKDFjfFPh8t4r1gOIjttkNcQqBccusnplQ7HJpsk
 -----END CERTIFICATE-----
-
 </cert>
-
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -1111,7 +1103,6 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-
 </key>"},{   "id":11,
   "file":"dev tun
 proto udp
@@ -1618,8 +1609,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 </key>"},{   "id":16,
   "file":"dev tun
-proto udp
-remote 87.222.163.144 1195
+proto tcp
+remote 5.181.235.122 443
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
@@ -1665,7 +1656,6 @@ VXyNWQKV3WKdwrnuWih0hKWbt5DHDAff9Yk2dDLWKMGwsAvgnEzDHNb842m1R0aB
 L6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG
 jjxDah2nGN59PRbxYvnKkKj9
 -----END CERTIFICATE-----
-
 </ca>
 <cert>
 -----BEGIN CERTIFICATE-----
@@ -1685,9 +1675,7 @@ UBHhllOHIzvDhHFbaovALBQceeBzdkQxsKQESKmQmR832950UCovoyRB61UyAV7h
 Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 6zZeZkrN43kuS73KpKDFjfFPh8t4r1gOIjttkNcQqBccusnplQ7HJpsk
 -----END CERTIFICATE-----
-
 </cert>
-
 <key>
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
@@ -1716,7 +1704,6 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-
 </key>"},{   "id":17,
   "file":"dev tun
 proto udp
