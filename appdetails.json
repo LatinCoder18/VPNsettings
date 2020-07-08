@@ -36,6 +36,8 @@
 	{"id":17, "file":17, "city":"Brasil","country":"Brasil","image":"brasil","ip":"76.173.36.8","active":"true","signal":"c"},
 	{"id":18, "file":18, "city":"United States 3","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
 	{"id":19, "file":19, "city":"United States 4","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
-	{"id":20, "file":20, "city":"United States 5","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},	
+	{"id":20, "file":20, "city":"United States 5","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},
+	{"id":20, "file":20, "city":"United States 6","country":"United States","image":"unitedstates","ip":"76.173.36.8","active":"true","signal":"a"},	
+	
   ]
 }
